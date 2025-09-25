@@ -1,0 +1,10 @@
+google-generativeai
+pandas
+numpy
+scikit-learn
+nltk
+transformers
+torch
+matplotlib
+seaborn
+python-dotenv
