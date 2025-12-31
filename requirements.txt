@@ -1,10 +1,9 @@
 google-generativeai
-pandas
 numpy
-scikit-learn
-nltk
-transformers
-torch
+pandas
+python-dotenv
+jupyterlab
+ipykernel
 matplotlib
 seaborn
-python-dotenv
+altair
